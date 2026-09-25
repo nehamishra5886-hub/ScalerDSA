@@ -56,7 +56,6 @@ public class BeggarsProblemBruteForce {
         for (int res : result) {
             System.out.print(res + " ");
         }
-        //System.out.println("Result: "+java.util.Arrays.toString(result));
 
     }
 
